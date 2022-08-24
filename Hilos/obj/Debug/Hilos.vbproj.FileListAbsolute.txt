@@ -1,0 +1,12 @@
+C:\Users\virgo\Downloads\Desktop\tareas\Hilos\bin\Debug\Hilos.exe.config
+C:\Users\virgo\Downloads\Desktop\tareas\Hilos\bin\Debug\Hilos.exe
+C:\Users\virgo\Downloads\Desktop\tareas\Hilos\bin\Debug\Hilos.pdb
+C:\Users\virgo\Downloads\Desktop\tareas\Hilos\bin\Debug\Hilos.xml
+C:\Users\virgo\Downloads\Desktop\tareas\Hilos\obj\Debug\Hilos.vbprojAssemblyReference.cache
+C:\Users\virgo\Downloads\Desktop\tareas\Hilos\obj\Debug\Hilos.Form1.resources
+C:\Users\virgo\Downloads\Desktop\tareas\Hilos\obj\Debug\Hilos.Resources.resources
+C:\Users\virgo\Downloads\Desktop\tareas\Hilos\obj\Debug\Hilos.vbproj.GenerateResource.cache
+C:\Users\virgo\Downloads\Desktop\tareas\Hilos\obj\Debug\Hilos.vbproj.CoreCompileInputs.cache
+C:\Users\virgo\Downloads\Desktop\tareas\Hilos\obj\Debug\Hilos.exe
+C:\Users\virgo\Downloads\Desktop\tareas\Hilos\obj\Debug\Hilos.xml
+C:\Users\virgo\Downloads\Desktop\tareas\Hilos\obj\Debug\Hilos.pdb
